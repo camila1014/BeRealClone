@@ -34,8 +34,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+Sign Up Walkthrough
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/103790405/219261989-188005c7-92b1-47b4-93f4-3ac186d0299f.gif)
+
+
+Load/Upload Posts Walkthrough
+![ezgif com-optimize](https://user-images.githubusercontent.com/103790405/219262670-26000bb1-3f9e-40d5-97a2-941920613193.gif)
+
+
+10 Posts
+![ezgif com-optimize-2](https://user-images.githubusercontent.com/103790405/219262706-a286172a-eb54-45f2-87d2-831b19ad4a64.gif)
 
 
 GIF created with https://ezgif.com 
